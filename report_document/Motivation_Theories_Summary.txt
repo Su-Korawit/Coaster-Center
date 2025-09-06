@@ -1,0 +1,56 @@
+
+Lecture Notes: Summary of Motivation Theories
+
+1. Content Theories (What motivates us?)
+-------------------------------------------------
+- Maslow's Hierarchy of Needs: Human needs arranged from basic (physiological) to self-actualization.
+- ERG Theory (Alderfer): Condenses Maslow's five needs into three categories: Existence, Relatedness, Growth.
+- Two-Factor Theory (Herzberg): Motivation comes from 'motivators' (growth, recognition) and 'hygiene factors' (salary, conditions).
+- McGuire's Motivations: Categorizes psychological motives into cognitive and affective domains.
+- Murray's System of Needs: Includes needs for achievement, affiliation, and power.
+- Need Theory: Motivation driven by individual needs (achievement, affiliation, power).
+
+2. Process Theories (How motivation occurs?)
+-------------------------------------------------
+- Expectancy Theory: Motivation is a product of expectancy (effort -> performance), instrumentality (performance -> reward), and valence (value of reward).
+- Expectancy-Value Theory: Emphasizes beliefs about how effort affects outcomes and how much the outcome is valued.
+- Equity Theory: Motivation is influenced by perceived fairness in social exchanges.
+- Goal Theory & Goal Orientation: Setting specific, challenging goals enhances motivation and performance.
+- Cognitive Dissonance: Discomfort from conflicting beliefs/actions motivates change to reduce inconsistency.
+- Cognitive Evaluation Theory: External rewards can undermine intrinsic motivation.
+- Self-Determination Theory (SDT): Focuses on autonomy, competence, and relatedness for sustaining intrinsic motivation.
+- Temporal Motivation Theory: Incorporates time-sensitive value into motivation decisions (procrastination model).
+- Self-Worth Theory of Motivation: Protecting self-worth becomes a primary motivator, influencing task choices.
+- Theory X and Theory Y: Assumptions about human nature (X: people dislike work; Y: people seek responsibility) affect motivation strategies.
+- Regulatory Focus Theory: Individuals are motivated by promotion (gains) or prevention (avoiding losses) focus.
+- Regulatory Mode Theory: Describes how people regulate their goal pursuit (locomotion vs. assessment modes).
+
+3. Incentive & Social Influence Theories
+-------------------------------------------------
+- Incentive Theory (Implied): Motivation driven by external rewards.
+- Achievement Ideology: Belief that success is the result of hard work motivates behavior.
+- Ben Franklin Effect: Doing favors for someone increases liking for them (self-justification mechanism).
+- Community Recognition: Motivation through gaining acknowledgment from one's community.
+- Motivation Crowding Theory: Extrinsic incentives can displace intrinsic motivation.
+- Knowledge Falsification & Preference Falsification: Concealing true beliefs/preferences due to social pressure.
+- Risk Aversion (Psychology): Tendency to avoid losses over acquiring equivalent gains influences decisions.
+- Yale Attitude Change Approach: Focus on persuasive communication affecting attitudes and motivation.
+
+4. Other Theories & Concepts
+-------------------------------------------------
+- Drive Theory: Behavior driven by biological drives to maintain homeostasis.
+- Drive-Reduction Theory: Behavior motivated to reduce internal tensions caused by unmet needs.
+- Arousal Theory: Seeking optimal arousal levels for best performance.
+- Disconfirmed Expectancy: Motivation arises when expectations are unmet, leading to increased effort or reassessment.
+- Expected Utility Hypothesis: Decision-making based on maximizing expected utility (value) of outcomes.
+- Hedonism: Pursuit of pleasure and avoidance of pain as primary motivators.
+- Holland Codes: Career motivation linked to personality-job environment fit.
+- Job Characteristic Theory: Job design (variety, autonomy, feedback) influences motivation.
+- Learned Industriousness: Reinforcement of high effort leads to sustained industriousness.
+- Life-Span Model of Motivation: Motivation changes across different life stages.
+- Mortality Salience: Awareness of mortality influences motivation and behaviors.
+- Optimal Stimulation Level: Individuals seek levels of stimulation optimal to their personality.
+- Psychological Determinism: Behavior is determined by prior causes and unconscious motives.
+- Action Regulation Theory: Emphasizes regulation of goal-directed actions through planning and feedback.
+- C. Bertrand Thompson: Early work on motivation in management and labor productivity.
+
