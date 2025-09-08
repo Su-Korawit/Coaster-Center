@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792895590056",
+    "project_id": "coastercenterreport",
+    "storage_bucket": "coastercenterreport.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792895590056:android:28cc8e67993a6c1d17fc9d",
+        "android_client_info": {
+          "package_name": "com.example.coastercenter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiGNLK494aYv0J9-efnZaojW1awpVA9EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
